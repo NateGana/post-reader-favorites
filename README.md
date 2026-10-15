@@ -1,8 +1,6 @@
 # Post Reader & Favorites
 
-A Flutter app for **ITP107 – Mobile Application Development (Finals Laboratory Examination)**, University of Cabuyao, Section 3 IT A.
 
-It loads posts from the internet, lets you read them, create a new post, and save favorite posts (with a personal note) on your device.
 
 ## Features
 
